@@ -5,18 +5,22 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: rgb(225, 159, 255);
-    background-color: rgb(214, 164, 255);
+    color: rgb(191, 219, 255);
+    background-color: rgb(201, 226, 255);
     margin: 0;
     padding: 0;
-    background-image: url(https://pin.it/4CMqq5EaE);
+    background-image: url(https://i.pinimg.com/736x/68/be/f7/68bef702aa19e7b643d7b3d17aea52fc.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 h1{
-    color: rgba(76, 31, 134, 0.911);
+    color: rgba(31, 76, 134, 0.911);
+    font-size: 50px;
+}
+h2 {
+    color: rgb(31, 76, 134, 0.911);
 }
 canvas{
-    border: 20px dashed rgb(255, 255, 255);
+    border: 20px dashed rgb(128, 176, 214);
 }
